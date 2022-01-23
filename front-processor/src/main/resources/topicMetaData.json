@@ -1,0 +1,20 @@
+{
+	"templateId": "TEMPLATE_ID_100",
+	"topicMap": [
+		{
+			"topicName": "dealer-temp",
+			"fields": [
+				"dealerId",
+				"dealerName"
+			]
+		},
+		{
+			"topicName": "car-temp",
+			"fields": [
+				"carName",
+				"fuelType",
+				"engineType"
+			]
+		}
+	]
+}
